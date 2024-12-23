@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qq1Db7X6nDZFjglDx8ZTyAkPgdrNk9WEh9QdbCSsygo=",
+  "Source": "ScheduleProject.WebAPI.Emailer",
+  "BasePath": "_content/ScheduleProject.WebAPI.Emailer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

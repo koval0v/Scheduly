@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SK5SoasK1l3V1whYfhUSgXWwEjPx45dLmHokzsEuHGA=",
+  "Source": "ScheduleProject.WebAPI.Disciplines",
+  "BasePath": "_content/ScheduleProject.WebAPI.Disciplines",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

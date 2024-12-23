@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ScheduleProject.WebAPI.Disciplines\\Controllers",
+    "\\ScheduleProject.WebAPI.Disciplines\\DbAccess",
+    "\\ScheduleProject.WebAPI.Disciplines\\Dtos",
+    "\\ScheduleProject.WebAPI.Disciplines\\Enums",
+    "\\ScheduleProject.WebAPI.Emailer\\Controllers",
+    "\\ScheduleProject.WebAPI.Emailer\\Models",
+    "\\ScheduleProject.WebAPI.Emailer\\Services"
+  ],
+  "SelectedNode": "\\ScheduleProject.WebAPI.Disciplines",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ScheduleProject.WebAPI.Groups.props" />
+</Project>
